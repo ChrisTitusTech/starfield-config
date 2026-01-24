@@ -1,0 +1,14 @@
+==============
+Presets folder
+==============
+
+The files in the presets folder aren't used by the game interface.
+If you like to use a preset, copy the file (or the content) to one of these files: 
+
+StarUI Inventory (default).ini
+OR: 
+StarUI Inventory.ini
+
+Note: The last file doesn't exist by default. You can create it to store your settings in a update-safe location.
+The file will be read last and can overwrite any settings in the default INI. 
+

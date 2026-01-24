@@ -1,0 +1,48 @@
+$ColumnLabelCount	QTY
+$ColumnLabelMassPerStack	STACK
+$ColumnLabelValuePerMass	V/M
+$ColumnLabelValuePerStack	VAL/STACK
+$ColumnLabelDPS	DPS
+$ColumnLabelAmmoRounds	ROUNDS
+$ColumnLabelRarity	RARITY
+$ColumnLabelTreatment	TREAT
+$ColumnLabelWeaponAccuracy	ACC
+$ColumnLabelWeaponROF	ROF
+$ColumnLabelWeaponRange	RANGE
+$ColumnLabelWeaponType	TYPE
+$ColumnLabelWeaponMagazine	MAG
+$ColumnLabelWeaponMods	MODS
+$ColumnLabelWeaponManufacturer	MANUFACTURER
+$ColumnLabelWeaponBasename	BASENAME
+$ColumnLabelInventory_player	INVENTORY
+$ColumnLabelInventory_ship	CARGO
+$ColumnLabelInventory_vendor	VENDOR
+$ColumnLabelInventory_container	CONT
+$ColumnLabelInventory_total	OWNED
+$ColumnLabelInventory_target	TARGET
+$TransferCatItems	Transfer all category items
+$TransferCatItemsToContainer	Transfer category items to container
+$TransferCatItemsToInventory	Transfer category items to inventory
+$TransferCatItemsToShip	Transfer category items to ship
+$SellCatItems	Sell all category items
+$BuyCatItems	Buy all category items
+$Scarcity0	Common
+$Scarcity1	Uncommon
+$Scarcity2	Rare
+$Scarcity3	Exotic
+$Scarcity4	Unique
+$Scarcity5	Special
+$Scarcity6	Everywhere
+$ButtonHideDataColumns	Hide data columns
+$ButtonShowDataColumns	Show data columns
+$ButtonSwitchCategory	Switch category
+$ButtonSwitchSubCategory	Switch sub category
+$ButtonSortBack	Sort (backwards)
+$ButtonSortAscDesc	Toggle sort asc/desc
+$ButtonAddTempCols	Add temp. columns
+$TransferMode1PieceActive	Transfer 1 item
+$TransferModeStackActive	Transfer stack
+$SellMode1PieceActive	Sell 1 item
+$SellModeStackActive	Sell stack
+$BuyMode1PieceActive	Buy 1 item
+$BuyModeStackActive	Buy stack

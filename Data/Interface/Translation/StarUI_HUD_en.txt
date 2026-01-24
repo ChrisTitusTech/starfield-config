@@ -1,0 +1,23 @@
+$ColumnLabelCount	QTY
+$ColumnLabelMassPerStack	STACK
+$ColumnLabelValuePerMass	V/M
+$ColumnLabelValuePerStack	VAL/STACK
+$ColumnLabelDPS	DPS
+$ColumnLabelAmmoRounds	ROUNDS
+$ColumnLabelRarity	RARITY
+$ColumnLabelTreatment	TREAT
+$ColumnLabelWeaponAccuracy	ACC
+$ColumnLabelWeaponROF	ROF
+$ColumnLabelWeaponRange	RANGE
+$ColumnLabelWeaponType	TYPE
+$ColumnLabelWeaponMagazine	MAG
+$ColumnLabelWeaponMods	MODS
+$ColumnLabelWeaponManufacturer	MANUFACTURER
+$ColumnLabelWeaponBasename	BASENAME
+$ColumnLabelInventory_player	INVENTORY
+$ColumnLabelInventory_ship	CARGO
+$ColumnLabelInventory_vendor	VENDOR
+$ColumnLabelInventory_container	CONTAINER
+$ColumnLabelInventory_total	OWNED
+$HOLD	HOLD
+$OnlyWhileSneaking	SNEAK ONLY

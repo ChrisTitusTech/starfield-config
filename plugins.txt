@@ -1,0 +1,2 @@
+Easy Digipick.esm
+KeepYourTrash.esm
