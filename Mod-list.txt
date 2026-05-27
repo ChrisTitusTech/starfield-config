@@ -1,8 +1,13 @@
+## SFSE Files
+
 SFSE
 SFSE Address Libraries
 SFSE BAKA Achievement unlock
 SFSE Seemless Grav Jumps
 SFSE Starware Search Engine
+
+## Loose Files
+
 StarUI Inventory
 StarUI Workbench
 StarUI Outpost
@@ -12,6 +17,10 @@ StarUI Ship Builder
 Clean Reflex Sight Lenses
 Compact Mission Menu
 HUD Info Widget
+Instant Workbench
+
+## ESM Files
+
 Easy Digipick.esm
 KeepYourTrash.esm
 NoXPKillSteal.esm
