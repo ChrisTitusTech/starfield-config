@@ -11,6 +11,7 @@ StarUI Ship Builder
 60 FPS - Smooth UI
 Clean Reflex Sight Lenses
 Compact Mission Menu
+HUD Info Widget
 Easy Digipick.esm
 KeepYourTrash.esm
 NoXPKillSteal.esm
