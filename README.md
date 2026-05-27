@@ -18,11 +18,11 @@ A curated Starfield mod configuration managed through **linutil** for easy insta
    - Copy mod files to the correct locations
    - Generate necessary configuration files
 
+![linutil install guide](linutil%20install.webp)
+
 ### Post-Installation: Enable ESM Files
 
 After linutil completes the installation, you need to enable the ESM files through Creations:
-
-![linutil install guide](linutil%20install.webp)
 
 **Steps:**
 1. Launch Starfield
