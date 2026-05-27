@@ -1,0 +1,16 @@
+SFSE
+SFSE Address Libraries
+SFSE BAKA Achievement unlock
+SFSE Seemless Grav Jumps
+SFSE Starware Search Engine
+StarUI Inventory
+StarUI Workbench
+StarUI Outpost
+StarUI HUD
+StarUI Ship Builder
+60 FPS - Smooth UI
+Clean Reflex Sight Lenses
+Compact Mission Menu
+Easy Digipick.esm
+KeepYourTrash.esm
+NoXPKillSteal.esm
