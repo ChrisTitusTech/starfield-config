@@ -1,0 +1,48 @@
+$DAMAGE_PRIORITY	DAMAGE PRIORITY
+$DAMAGES	DAMAGES
+$Show_per	Show per
+$PerSEC	SEC (DPS)
+$PerPWR	PWR
+$ColumnLabelWeaponROF	ROF
+$ColumnLabelClass	CLS
+$ColumnLabelDPS	DPS
+$ColumnLabelDPP	DPP
+$ColumnLabelHullDamage	HUL
+$ColumnLabelShieldDamage	SHD
+$ColumnLabelEMDamage	EM
+$ColumnLabelDamages	DAMAGES
+$ColumnLabelDamagesSum	DMG
+$ColumnLabelDamagesSumDPS	DPS
+$ColumnLabelDamagesSumDPP	DPP
+$ColumnLabelDamagesMax	MAX
+$ColumnLabelDamagesMaxDPS	DPS
+$ColumnLabelDamagesMaxDPP	DPP
+$ColumnLabelRange	RNG
+$ColumnLabelMaxPower	PWR
+$ColumnLabelGeneratedPower	PWR
+$ColumnLabelHull	HUL
+$ColumnLabelCrewCapacity	CRWC
+$ColumnLabelCrewStations	CRWS
+$ColumnLabelPassengerSlots	PAS
+$ColumnLabelCargo	CRG
+$ColumnLabelRepairRate	REP
+$ColumnLabelRegenRate	REG
+$ColumnLabelCargoPerMass	CRG/MASS
+$ColumnLabelEngineThruster	THR
+$ColumnLabelManeuverThruster	MTHR
+$ColumnLabelLanderThruster	THR
+$ColumnLabelShieldMaxHealth	SHD
+$ColumnLabelEngineHealth	HP
+$ColumnLabelGravJumpFuel	FUEL
+$ColumnLabelGravJumpThrust	THR
+$ColumnLabelGravDriveHealth	HP
+$ColumnLabelReactorHealth	HP
+$CLIPBOARD	CLIPBOARD
+$ClipboardCopySet	Copy Set
+$ClipboardPasteSet	Paste Set
+
+$CAT	CAT
+$ColumnLabelFuelPerMass	FUEL/MASS
+$ColumnLabelCargoShielded	CRGS
+$ColumnLabelCargoUnshielded	CRGU
+$ColumnLabelCargoIsShielded	SHD

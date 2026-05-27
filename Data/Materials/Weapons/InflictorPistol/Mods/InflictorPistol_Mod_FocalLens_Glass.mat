@@ -1,0 +1,22 @@
+{
+	"Import" : [ "Data\\MATERIALS\\Layered\\ShaderModels\\Invisible.mat" ],
+	"Objects" : 
+	[
+		{
+			"Components" : 
+			[
+				{
+					"Data" : 
+					{
+						"Name" : "BlankNoRender00"
+					},
+					"Index" : 0,
+					"Type" : "BSComponentDB::CTName"
+				}
+			],
+			"Parent" : "Data\\MATERIALS\\Layered\\ShaderModels\\Invisible.mat"
+		}
+	],
+	"Summary" : null,
+	"Version" : 1
+}

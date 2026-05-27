@@ -1,0 +1,51 @@
+# Colors
+color_positive=00FF00
+color_negative=FF0000
+color_main=00FFFF
+color_stats=FFFFFF
+color_combat=FF0000
+color_credits=EBB434
+
+# Labels
+label_hungry=HUNGRY
+label_thirsty=THIRSTY
+label_fed=SATIATED
+label_hydrated=HYDRATED
+
+# Position COMPASS
+position=COMPASS
+
+# Options
+show_enemy_markers=true
+show_quest_markers=true
+show_credits=true
+show_dots=true
+show_suit_bar=true
+show_suit_percent=true
+suit_sound_threshold=1.0
+label_suit=S
+show_background=true
+background_alpha=0.4
+# fuel_style can be either animated or plain
+fuel_style=animated
+
+# DeimosWave Options
+show_chatter=false
+chatter_freq_min=45
+chatter_freq_max=120
+chatter_background_alpha=0.4
+
+# Fuel Bar Options
+color_fuel_background=00FFFF
+color_fuel_meter=FFFFFF
+color_fuel_full=00FF00
+color_fuel_mid=FFFF00
+color_fuel_low=FF6600
+color_fuel_critical=FF0000
+#fuel_style can either be animated or plain
+fuel_style=animated
+label_ship_fuel=FUEL
+label_ship_cargo=CARGO
+label_ship_repairitem=PARTS
+show_ship_cargo=true
+show_ship_repairitem=true
