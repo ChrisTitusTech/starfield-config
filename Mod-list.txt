@@ -5,6 +5,7 @@ SFSE Address Libraries
 SFSE BAKA Achievement unlock
 SFSE Seemless Grav Jumps
 SFSE Starware Search Engine
+Dynamic HUD
 
 ## Loose Files
 
